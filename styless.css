@@ -82,7 +82,6 @@ button {
 .make-fix {
   position: fixed;
   width: 100%;
-
 }
 
 .navbar {
@@ -100,7 +99,6 @@ button {
 }
 
 .nav-links {
-  text-decoration: none;
   color: inherit;
   text-decoration: inherit;
 }
@@ -704,7 +702,6 @@ button:hover {
     font-style: normal;
     font-weight: bold;
   }
-
 
   body {
     width: 100%;
