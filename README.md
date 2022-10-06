@@ -2,14 +2,13 @@
 
 # Microvers Portfolio project
 
-> This is my second project with microverse which we have to create a portfolio.
+> This is my fourth project with microverse which we have to create a portfolio with a bootsrap.
 
 ## Create A branch Called fetures 
 
 ## Learning Objectives
 
 - Understand how to parse a Figma design to create a UI.
-- Flexbox to place elements in the page.
 - Build a personal portfolio site.
 - Use images and backgrounds to enhance the look of the website.
 
