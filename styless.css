@@ -79,6 +79,11 @@ button {
   justify-content: center;
 }
 
+.make-fix {
+  position: fixed;
+  width: 100%;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -91,6 +96,11 @@ button {
   padding-left: 40px;
   text-decoration: none;
   color: #fff;
+}
+
+.nav-links {
+  color: inherit;
+  text-decoration: inherit;
 }
 
 .endnavbar {
@@ -692,7 +702,6 @@ button:hover {
     font-style: normal;
     font-weight: bold;
   }
-
 
   body {
     width: 100%;
